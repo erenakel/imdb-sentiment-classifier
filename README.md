@@ -3,6 +3,10 @@
 ## Project Overview
 This project builds a sentiment analysis model using a bi-directional LSTM network to classify IMDB movie reviews as positive or negative. The model is trained on a dataset of movie reviews and deployed as a Flask API for real-time predictions.
 
+## Author
+
+Eren Akel
+
 ## Dataset
 The dataset contains IMDB movie reviews labeled as either positive or negative. It is used to train and evaluate the model’s performance.
 
